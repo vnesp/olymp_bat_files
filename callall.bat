@@ -1,0 +1,1 @@
+for %%i in (tests\*.in) do call %1 %2 %%~ni

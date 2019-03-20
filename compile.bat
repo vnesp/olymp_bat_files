@@ -1,0 +1,1 @@
+c:\mingw\bin\g++ -O2 -std=gnu++11 %~n1.cpp -o %~n1
